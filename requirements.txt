@@ -1,0 +1,6 @@
+cat <<'EOF' > requirements.txt
+flask
+pytest
+gunicorn
+EOF
+
