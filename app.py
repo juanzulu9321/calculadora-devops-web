@@ -1,4 +1,4 @@
-cat <<'EOF' > app.py
+cat > app.py <<'EOF'
 from flask import Flask, request, jsonify
 import calc
 
